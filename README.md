@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning *AWS*
 - 💬 Ask me about *Java, Spring-Boot and MySQL & Hibernate*
 - 👨‍💻 All of my projects are available at <a href =https://shuklasachin-2.github.io/> *Porfolio* </a>
-- 📄 Know about my experiences <a href = http://t.ly/MC7n /> *Resume* </a>
+- 📄 Know about my experiences <a href = https://drive.google.com/drive/u/0/folders/1-p8NR8C5TrxTR1SxvVHTlVBmTDOcqZvK /> *Resume* </a>
 - 📫 How to reach me: *contactsachinshukla2303@gmail.com*
 
 
