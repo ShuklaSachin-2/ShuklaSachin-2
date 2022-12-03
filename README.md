@@ -4,29 +4,29 @@
 <img align="right" alt="coding" width="340" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
 
 <br>
-<p><b>Welcome to my page! </br> I'm Gaurav, Java Backend developer from</b> <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/> <b>Uttarakhand, India</b>. </p>
+<p><b>Welcome to my page! </br> I'm Sachin, Java Backend developer from</b> <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/> <b>Lucknow, India</b>. </p>
                                                        
 - 🔭 I’m currently working on *MySkill😄*
 - 🌱 I’m currently learning *AWS*
 - 💬 Ask me about *Java, Spring-Boot and MySQL & Hibernate*
-- 👨‍💻 All of my projects are available at <a href = https://gaurav7ingh.github.io /> *Porfolio* </a>
+- 👨‍💻 All of my projects are available at <a href =https://shuklasachin-2.github.io/> *Porfolio* </a>
 - 📄 Know about my experiences <a href = http://t.ly/MC7n /> *Resume* </a>
-- 📫 How to reach me: *gtogaurav@gmail.com*
+- 📫 How to reach me: *contactsachinshukla2303@gmail.com*
 
 
 <br>
                                                        
 <h2 align="center"><i>My GitHub Stats</i></h2>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gaurav7ingh&label=Profile%20views&color=0e75b6&style=flat"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ShuklaSachin-2&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
 <p align = "center">
-    <img src="https://github-readme-stats.vercel.app/api?username=gaurav7ingh&show_icons=true&locale=en&theme=dark"  height="139" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav7ingh&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" height="139" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ShuklaSachin-2&show_icons=true&locale=en&theme=dark"  height="139" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuklaSachin-2&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" height="139" />
 </p>
 
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=gaurav7ingh&theme=xcode" height ="307"/>
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=ShuklaSachin-2&theme=xcode" height ="307"/>
 
-![snake gif](https://github.com/gaurav7ingh/gaurav7ingh/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ShuklaSachin-2/ShuklaSachin-2/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
@@ -88,8 +88,8 @@
                                                          
 <h3 align="center">How to reach me: 📫</h3>
 <div align="center" display="flex">
-  <a  href="https://www.linkedin.com/in/gaurav7ingh/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a  href="mailto: gtogaurav@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-   <a  href="https://www.hackerrank.com/gauravsingh99626" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
-  <a  href="https://github.com/gaurav7ingh" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a  href="https://www.linkedin.com/in/sachin-shukla-29b6b7233/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a  href="mailto: contactsachinshukla@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+   <a  href="https://www.hackerrank.com/contactsachinsh1" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+  <a  href="https://github.com/ShuklaSachin-2" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
