@@ -1,36 +1,95 @@
-<h1 align="center">Hi 👋, I'm Sachin Shukla</h1>
-<h3 align="center">A passionate and focused Java Backend developer from India (i believe Success is the sum of small efforts, repeated day in and day out.))</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
+### #I believe that Every accomplishment starts with the decision to try.
+<img align="right" alt="coding" width="340" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
+
+<br>
+<p><b>Welcome to my page! </br> I'm Gaurav, Java Backend developer from</b> <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/> <b>Uttarakhand, India</b>. </p>
+                                                       
+- 🔭 I’m currently working on *MySkill😄*
+- 🌱 I’m currently learning *AWS*
+- 💬 Ask me about *Java, Spring-Boot and MySQL & Hibernate*
+- 👨‍💻 All of my projects are available at <a href = https://gaurav7ingh.github.io /> *Porfolio* </a>
+- 📄 Know about my experiences <a href = http://t.ly/MC7n /> *Resume* </a>
+- 📫 How to reach me: *gtogaurav@gmail.com*
 
 
-- 🔭 I’m currently working on **spring Hibernate**
+<br>
+                                                       
+<h2 align="center"><i>My GitHub Stats</i></h2>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gaurav7ingh&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
-- 🌱 I’m currently learning **HIbernate**
-
-- 🤝 I’m looking for help with **Docker**
-
-
-
-- 💬 Ask me about **Core java, Spring Hibernate HTML CSS**
-
-- 📫 How to reach me **contactsachinshukla2303@gmail.com**
-
-
-- ⚡ Fun fact **I think to have fun with code that's all you need**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://linkedin.com/in/sachin shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin shukla" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sachin shukla @contactsachinsh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@contactsachinsh1" height="30" width="40" /></a>
-
+<p align = "center">
+    <img src="https://github-readme-stats.vercel.app/api?username=gaurav7ingh&show_icons=true&locale=en&theme=dark"  height="139" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav7ingh&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" height="139" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=gaurav7ingh&theme=xcode" height ="307"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuklasachin-2&show_icons=true&locale=en&layout=compact" alt="shuklasachin-2" /></p>
+![snake gif](https://github.com/gaurav7ingh/gaurav7ingh/blob/output/github-contribution-grid-snake.svg)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shuklasachin-2&show_icons=true&locale=en" alt="shuklasachin-2" /></p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shuklasachin-2&" alt="shuklasachin-2" /></p>
+ -->
+ 
+ 
+<div align="center">
+  <h3 align="center" border="0"> 🚀 My Tech Stack<img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="30"/></h3>
+<br>
+<table align="center">
+<tbody>
+<tr valign="top">
+<td width="25%" align="center">
+<span><b>JAVA</b></span><br><br>
+<img height="64px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
+</td>
+ <td width="25%" align="center">
+<span><b>Spring-Boot</b></span><br><br>
+<img height="64px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg">
+</td>
+<td width="25%" align="center">
+<span><b>MySQL</b></span><br><br>
+<img height="64px" src="https://cdn-icons-png.flaticon.com/512/919/919836.png">
+</td>
+<td width="25%" align="center">
+<span><b>HIBERNATE</b></span><br><br>
+<img height="64px" src="https://hibernate.org/images/hibernate-logo.svg">
+</td>
+</tr>
+
+<tr valign="top">
+<td width="25%" align="center">
+<span><b>JavaScript</b></span><br><br>
+<img height="64px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
+</td>
+
+
+<td width="25%" align="center">
+<span><b>CSS</b></span><br><br>
+<img height="64px" src="https://cdn-icons-png.flaticon.com/512/888/888847.png">
+</td>
+
+<td width="25%" align="center">
+<span><b>HTML</b></span><br><br>
+<img height="64px" src="https://cdn-icons-png.flaticon.com/512/888/888859.png">
+</td>
+<td width="25%" align="center">
+<span><b>Git</b></span><br><br>
+<img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+</td>
+</tr>
+</tbody>
+</table>
+</div> 
+
+
+
+<div align="center">  
+                                                         
+<h3 align="center">How to reach me: 📫</h3>
+<div align="center" display="flex">
+  <a  href="https://www.linkedin.com/in/gaurav7ingh/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a  href="mailto: gtogaurav@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+   <a  href="https://www.hackerrank.com/gauravsingh99626" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+  <a  href="https://github.com/gaurav7ingh" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
